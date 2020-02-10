@@ -1,5 +1,9 @@
 # Minimal "Hero of The Kingdom" Clone in React
 
+Collect mushrooms forever ;)
+
+## React Project Readme
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
