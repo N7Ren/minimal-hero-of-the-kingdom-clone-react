@@ -1,6 +1,7 @@
 {
   "name": "minimal-hero-of-the-kingdom-clone-react",
   "version": "0.1.0",
+  "license": "GPL-3.0-only",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
